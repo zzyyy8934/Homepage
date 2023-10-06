@@ -1,4 +1,4 @@
-<h1 align="center">July</h1>
+<h1 align="center">周扬</h1>
 
 <h3 align="center">A minimalist, focused writing Hexo theme.</h3>
 
