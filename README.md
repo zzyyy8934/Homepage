@@ -5,5 +5,5 @@
 <p align="center">
 
 
-<center><img src="简历 拷贝.jpg"></center>
+<center><img src="微信图片_20220611130302 拷贝 2.png"></center>
 
