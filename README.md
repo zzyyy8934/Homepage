@@ -1,6 +1,6 @@
 <h1 align="center">周扬</h1>
 
-<h3 align="center">A minimalist, focused writing Hexo theme.</h3>
+<h3 align="center">一个希望每天想出一个新点子的小设计师</h3>
 
 <p align="center">
 
