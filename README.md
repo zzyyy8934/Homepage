@@ -5,5 +5,5 @@
 <p align="center">
 
 
-<center><img src="./source/img/preview.png"></center>
+<center><img src="简历 拷贝.jpg"></center>
 
