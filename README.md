@@ -4,7 +4,6 @@
 
 <p align="center">
 
----
 
 <center><img src="./source/img/preview.png"></center>
 
